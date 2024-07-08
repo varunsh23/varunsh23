@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **varunsh23/varunsh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=FFFFFF&color=1099B2&height=200&section=header&text=Hello%20There!%20&fontSize=90)
+Let's Connect and have a Chat!💬

@@ -20,10 +20,24 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/varun-sharma-463659190">
   <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
 </a>
+<br><br>
+ <h3>
+ - 🔭 I’m currently working on Nextjs Project with Gen AI
+ </h3>
+ <h3>
+- 🌱 I’m currently learning Frontend Integration with OpenAi Apis
+</h3>
+
+<h3>
+- 🤔 I’m looking for help with learning about AI & ML
+</h3>
+ <h3>
+- 📫 How to reach me: LinkedIn & email - varunsh5687@gmail.com
+</h3>
 
 
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<br><br>
+<h2> 🚀 Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
@@ -75,8 +89,8 @@ Here are some ideas to get you started:
 
                                                                                                                                              
                                                                                                                                              
-                                                                                                                                             
-[![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunsh23&show_icons=true&theme=radical)](https://github.com/varunsh23/github-readme-stats)                                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsh23&layout=compact)](https://github.com/varunsh23/github-readme-stats) 
+  <br><br>                                                                                                                                         
+[![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunsh23&show_icons=true&theme=radical)](https://github.com/varunsh23/github-readme-stats)                                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsh23&layout=compact)](https://github.com/varunsh23/github-readme-stats) 
 
 ![Snake animation](https://github.com/varunsh23/varunsh23/blob/output/github-contribution-grid-snake.svg)     
           

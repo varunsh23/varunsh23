@@ -13,28 +13,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&fontColor=FFFFFF&color=1099B2&height=120&section=header&text=Hello%20There!%20&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=FFFFFF&color=1099B2&height=130&section=header&text=Hello%20There!%20&fontSize=90)
+<div align="center">
+  
+<h1> I'm Varun Sharma</h1>
+<h3>
+A passionate fullstack developer from India
+</h3>
+</div>
 <h1 style="text-align:center;">Let's Connect and have a Chat! 💬</h1>
 
 <a href="https://www.linkedin.com/in/varun-sharma-463659190">
   <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
 </a>
 <br><br>
- <h3>
+<img src="https://c.tenor.com/SxJQcg2-UGkAAAAC/tenor.gif" align="right" alt="Coding" width="350" height="250" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=slugneffex&label=Profile%20views&color=0e75b6&style=flat" alt="slugneffex" /> </p>
+
+ <h5>
  - 🔭 I’m currently working on Nextjs Project with Gen AI
- </h3>
- <h3>
+ </h5>
+ <h5>
 - 🌱 I’m currently learning Frontend Integration with OpenAi Apis
-</h3>
-
-<h3>
+</h5>
+ <h5>
+- 💬 Ask me about Html, Css , Javascript, React
+</h5>
+<h5>
 - 🤔 I’m looking for help with learning about AI & ML
-</h3>
- <h3>
-- 📫 How to reach me: LinkedIn & email - varunsh5687@gmail.com
-</h3>
-
+</h5>
+ <h5>
+- 📫 How to reach me: varunsh5687@gmail.com
+</h5>
 
 <br><br>
 <h2> 🚀 Some Tools I Have Used and Learned</h2>

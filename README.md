@@ -102,6 +102,6 @@ A passionate fullstack developer from India
   <br><br>                                                                                                                                         
 [![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunsh23&show_icons=true&theme=radical)](https://github.com/varunsh23/github-readme-stats)                                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsh23&layout=compact)](https://github.com/varunsh23/github-readme-stats) 
 
-![Snake animation](https://github.com/varunsh23/varunsh23/blob/output/github-contribution-grid-snake.svg)     
+
           
 </p>

@@ -1,107 +1,97 @@
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=FFFFFF&color=1099B2&height=150&section=header&text=Hi%2C%20I'm%20Varun%20Sharma!&fontSize=90)
 
-<!--
-**varunsh23/varunsh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![header](https://capsule-render.vercel.app/api?type=waving&fontColor=FFFFFF&color=1099B2&height=130&section=header&text=Hello%20There!%20&fontSize=90)
 <div align="center">
-  
-<h1> I'm Varun Sharma</h1>
-<h3>
-A passionate fullstack developer from India
-</h3>
+  <h2>🚀 Senior Full Stack Engineer | Backend-Focused | Microservices Enthusiast</h2>
+  <p>Building scalable systems with Node.js, Go, Redis, RabbitMQ & Cloud infrastructure</p>
 </div>
-<h1 style="text-align:center;">Let's Connect and have a Chat! 💬</h1>
 
-<a href="https://www.linkedin.com/in/varun-sharma-463659190">
-  <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
-</a>
-<br><br>
-<img src="https://c.tenor.com/SxJQcg2-UGkAAAAC/tenor.gif" align="right" alt="Coding" width="350" height="250" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slugneffex&label=Profile%20views&color=0e75b6&style=flat" alt="slugneffex" /> </p>
+---
 
- <h5>
- - 🔭 I’m currently working on Nextjs Project with Gen AI
- </h5>
- <h5>
-- 🌱 I’m currently learning Frontend Integration with OpenAi Apis
-</h5>
- <h5>
-- 💬 Ask me about Html, Css , Javascript, React
-</h5>
-<h5>
-- 🤔 I’m looking for help with learning about AI & ML
-</h5>
- <h5>
-- 📫 How to reach me: varunsh5687@gmail.com
-</h5>
+### 📬 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/varun-sharma-463659190"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:varunsh5687@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/varunsh23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<br><br>
-<h2> 🚀 Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" width="45" height="45" />
-   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original-wordmark.svg" width="45" height="45" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  alt="bash" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg"  width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="45" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="45" height="45" />
+---
 
+### 🛠️ Tech Stack
 
-                                                                                                                                             
-                                                                                                                                             
-  <br><br>                                                                                                                                         
-[![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunsh23&show_icons=true&theme=radical)](https://github.com/varunsh23/github-readme-stats)                                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsh23&layout=compact)](https://github.com/varunsh23/github-readme-stats) 
+#### **Frontend**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
+</p>
 
+#### **Backend & DevOps**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" />
+</p>
 
-          
+---
+
+### 💼 Experience Highlights
+
+**Backend Developer | Centocode | Gurugram | 09/2024 – Present**  
+- Built modular microservices in Go (Gin) and NestJS (TypeScript) for high scalability  
+- Optimized inter-service communication with **gRPC**  
+- Integrated **RabbitMQ** & **WebSockets** for real-time workflows  
+- Payment gateway integration & webhook-driven architecture  
+- Managed MongoDB, PostgreSQL & Redis for flexible storage
+
+**MERN Stack Developer | Todquest Enterprises | Noida | 09/2023 – 08/2024**  
+- Built multi-tenant LMS supporting 20+ institutions with isolated environments  
+- Developed exam grading & user management systems reducing manual effort by **70%**  
+- Rolled out real-time notifications & dashboards improving engagement by **40%**
+
+---
+
+### 📂 Selected Projects
+
+**Immigration CRM Platform** – NestJS, PostgreSQL, MongoDB, RabbitMQ, gRPC, Redis, Docker, WebSockets  
+- Backend microservices for multi-tenant deployments & role-based access  
+- Payment gateways, chat module & dynamic IVR workflows
+
+**Marketing CRM & Campaign Automation Portal** – Go (Gin), RabbitMQ, PostgreSQL, MongoDB, Redis  
+- Backend microservices for large-scale campaign automation  
+- API Gateway, caching, FCM notifications & payment subscriptions
+
+**Spotify 2.0** – Next.js, TypeScript, Tailwind, Supabase, Stripe  
+- Responsive music streaming app with authentication & subscription-based access  
+- Playlist management, song uploads & Stripe billing integration
+
+---
+
+### 📊 GitHub Stats
+
+[![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunsh23&show_icons=true&theme=radical)](https://github.com/varunsh23/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsh23&layout=compact)](https://github.com/varunsh23/github-readme-stats)
+
+---
+
+### 🌟 Fun Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Senior%20Backend%20Engineer-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices%20Expert-2979FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-FB8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Real-Time%20Systems-9C27B0?style=for-the-badge" />
 </p>
